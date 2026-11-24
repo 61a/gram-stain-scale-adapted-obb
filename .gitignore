@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+work/
+work_dirs/
+data/
+*.pth
+*.pt
+*.ckpt
+*.predictions.json
+*.groundtruth.json
+*.metrics.json
